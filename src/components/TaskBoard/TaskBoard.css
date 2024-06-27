@@ -1,0 +1,16 @@
+.todos__container{
+    display: flex;
+}
+
+.panel__container {
+    border: 1px solid black;
+    margin: 3px;
+    padding: 1em;
+    flex-grow: 1;
+}
+
+.panel__title {
+  text-align: left;
+  font-weight: bold;
+  font-size: 2 em;
+}
